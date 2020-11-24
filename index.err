@@ -1,0 +1,3 @@
+nohup: ignoring input
+WARNING: configuration cookies.keys is missing, this option is critical to detect and ignore tampered cookies
+WARNING: a quick start development-only signing keys are used, you are expected to provide your own in configuration "jwks" property
